@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Delegates\\Delegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F71B84-F3B0-4C17-BB82-98E029DBDB6A}|Delegates.csproj|d:\\delegates\\delegates\\delegatepredicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F71B84-F3B0-4C17-BB82-98E029DBDB6A}|Delegates.csproj|solutionrelative:delegatepredicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Delegates||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F71B84-F3B0-4C17-BB82-98E029DBDB6A}|Delegates.csproj|d:\\delegates\\delegates\\delegateaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F71B84-F3B0-4C17-BB82-98E029DBDB6A}|Delegates.csproj|solutionrelative:delegateaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F71B84-F3B0-4C17-BB82-98E029DBDB6A}|Delegates.csproj|d:\\delegates\\delegates\\delegatefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F71B84-F3B0-4C17-BB82-98E029DBDB6A}|Delegates.csproj|solutionrelative:delegatefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F71B84-F3B0-4C17-BB82-98E029DBDB6A}|Delegates.csproj|d:\\delegates\\delegates\\delegatessingle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F71B84-F3B0-4C17-BB82-98E029DBDB6A}|Delegates.csproj|solutionrelative:delegatessingle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F71B84-F3B0-4C17-BB82-98E029DBDB6A}|Delegates.csproj|d:\\delegates\\delegates\\delegatemulti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F71B84-F3B0-4C17-BB82-98E029DBDB6A}|Delegates.csproj|solutionrelative:delegatemulti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F71B84-F3B0-4C17-BB82-98E029DBDB6A}|Delegates.csproj|d:\\delegates\\delegates\\delegate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F71B84-F3B0-4C17-BB82-98E029DBDB6A}|Delegates.csproj|solutionrelative:delegate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F71B84-F3B0-4C17-BB82-98E029DBDB6A}|Delegates.csproj|d:\\delegates\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F71B84-F3B0-4C17-BB82-98E029DBDB6A}|Delegates.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F71B84-F3B0-4C17-BB82-98E029DBDB6A}|Delegates.csproj|d:\\delegates\\delegates\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delegates",
+              "DocumentMoniker": "D:\\Delegates\\Delegates\\Delegates.csproj",
+              "RelativeDocumentMoniker": "Delegates.csproj",
+              "ToolTip": "D:\\Delegates\\Delegates\\Delegates.csproj*",
+              "RelativeToolTip": "Delegates.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-28T05:19:40.121Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DelegatePredicate.cs",
+              "DocumentMoniker": "D:\\Delegates\\Delegates\\DelegatePredicate.cs",
+              "RelativeDocumentMoniker": "DelegatePredicate.cs",
+              "ToolTip": "D:\\Delegates\\Delegates\\DelegatePredicate.cs",
+              "RelativeToolTip": "DelegatePredicate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:20:00.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DelegateAction.cs",
+              "DocumentMoniker": "D:\\Delegates\\Delegates\\DelegateAction.cs",
+              "RelativeDocumentMoniker": "DelegateAction.cs",
+              "ToolTip": "D:\\Delegates\\Delegates\\DelegateAction.cs",
+              "RelativeToolTip": "DelegateAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:06:04.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DelegateFunction.cs",
+              "DocumentMoniker": "D:\\Delegates\\Delegates\\DelegateFunction.cs",
+              "RelativeDocumentMoniker": "DelegateFunction.cs",
+              "ToolTip": "D:\\Delegates\\Delegates\\DelegateFunction.cs",
+              "RelativeToolTip": "DelegateFunction.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:00:28.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DelegateMulti.cs",
+              "DocumentMoniker": "D:\\Delegates\\Delegates\\DelegateMulti.cs",
+              "RelativeDocumentMoniker": "DelegateMulti.cs",
+              "ToolTip": "D:\\Delegates\\Delegates\\DelegateMulti.cs",
+              "RelativeToolTip": "DelegateMulti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:54:44.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DelegatesSingle.cs",
+              "DocumentMoniker": "D:\\Delegates\\Delegates\\DelegatesSingle.cs",
+              "RelativeDocumentMoniker": "DelegatesSingle.cs",
+              "ToolTip": "D:\\Delegates\\Delegates\\DelegatesSingle.cs",
+              "RelativeToolTip": "DelegatesSingle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:23:40.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delegate1.cs",
+              "DocumentMoniker": "D:\\Delegates\\Delegates\\Delegate1.cs",
+              "RelativeDocumentMoniker": "Delegate1.cs",
+              "ToolTip": "D:\\Delegates\\Delegates\\Delegate1.cs",
+              "RelativeToolTip": "Delegate1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:15:20.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Delegates\\Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Delegates\\Delegates\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:07:39.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
