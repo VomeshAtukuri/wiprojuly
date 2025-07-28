@@ -1,0 +1,8 @@
+D:\wiprojuly\Reflections\Refelections\bin\Debug\Refelections.exe.config
+D:\wiprojuly\Reflections\Refelections\bin\Debug\Refelections.exe
+D:\wiprojuly\Reflections\Refelections\bin\Debug\Refelections.pdb
+D:\wiprojuly\Reflections\Refelections\obj\Debug\Refelections.csproj.AssemblyReference.cache
+D:\wiprojuly\Reflections\Refelections\obj\Debug\Refelections.csproj.CoreCompileInputs.cache
+D:\wiprojuly\Reflections\Refelections\obj\Debug\Refelections.exe
+D:\wiprojuly\Reflections\Refelections\obj\Debug\Refelections.pdb
+D:\wiprojuly\Reflections\Refelections\obj\Debug\Refelections.exe.config

@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wiprojuly\\Reflections\\Refelections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Refelections||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3DDAEB-2352-4CB6-B6C9-8EC3A19783EE}|Refelections.csproj|d:\\wiprojuly\\reflections\\refelections\\reflectionex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3DDAEB-2352-4CB6-B6C9-8EC3A19783EE}|Refelections.csproj|solutionrelative:reflectionex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3DDAEB-2352-4CB6-B6C9-8EC3A19783EE}|Refelections.csproj|d:\\wiprojuly\\reflections\\refelections\\messageutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3DDAEB-2352-4CB6-B6C9-8EC3A19783EE}|Refelections.csproj|solutionrelative:messageutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3DDAEB-2352-4CB6-B6C9-8EC3A19783EE}|Refelections.csproj|d:\\wiprojuly\\reflections\\refelections\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Refelections",
+              "DocumentMoniker": "D:\\wiprojuly\\Reflections\\Refelections\\Refelections.csproj",
+              "RelativeDocumentMoniker": "Refelections.csproj",
+              "ToolTip": "D:\\wiprojuly\\Reflections\\Refelections\\Refelections.csproj*",
+              "RelativeToolTip": "Refelections.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-28T07:00:59.289Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReflectionEx4.cs",
+              "DocumentMoniker": "D:\\wiprojuly\\Reflections\\Refelections\\ReflectionEx4.cs",
+              "RelativeDocumentMoniker": "ReflectionEx4.cs",
+              "ToolTip": "D:\\wiprojuly\\Reflections\\Refelections\\ReflectionEx4.cs",
+              "RelativeToolTip": "ReflectionEx4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:34:58.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageUtil.cs",
+              "DocumentMoniker": "D:\\wiprojuly\\Reflections\\Refelections\\MessageUtil.cs",
+              "RelativeDocumentMoniker": "MessageUtil.cs",
+              "ToolTip": "D:\\wiprojuly\\Reflections\\Refelections\\MessageUtil.cs",
+              "RelativeToolTip": "MessageUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:33:32.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
