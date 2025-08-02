@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Refelections.ReflectionEx4</StartupObject>
+    <StartupObject>Refelections.ReflectionEx3</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

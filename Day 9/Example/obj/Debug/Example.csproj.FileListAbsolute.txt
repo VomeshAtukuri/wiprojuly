@@ -1,0 +1,8 @@
+D:\wiprojuly\Day 9\Example\bin\Debug\Example.exe.config
+D:\wiprojuly\Day 9\Example\bin\Debug\Example.exe
+D:\wiprojuly\Day 9\Example\bin\Debug\Example.pdb
+D:\wiprojuly\Day 9\Example\obj\Debug\Example.csproj.AssemblyReference.cache
+D:\wiprojuly\Day 9\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+D:\wiprojuly\Day 9\Example\obj\Debug\Example.exe
+D:\wiprojuly\Day 9\Example\obj\Debug\Example.pdb
+D:\wiprojuly\Day 9\Example\obj\Debug\Example.exe.config

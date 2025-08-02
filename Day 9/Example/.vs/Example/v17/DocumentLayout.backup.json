@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wiprojuly\\Day 9\\Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CB4F4A-984F-4BD4-8061-0CFDFE72B003}|Example.csproj|d:\\wiprojuly\\day 9\\example\\threadsex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CB4F4A-984F-4BD4-8061-0CFDFE72B003}|Example.csproj|solutionrelative:threadsex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Example||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CB4F4A-984F-4BD4-8061-0CFDFE72B003}|Example.csproj|d:\\wiprojuly\\day 9\\example\\indexerex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CB4F4A-984F-4BD4-8061-0CFDFE72B003}|Example.csproj|solutionrelative:indexerex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CB4F4A-984F-4BD4-8061-0CFDFE72B003}|Example.csproj|d:\\wiprojuly\\day 9\\example\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CB4F4A-984F-4BD4-8061-0CFDFE72B003}|Example.csproj|solutionrelative:emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CB4F4A-984F-4BD4-8061-0CFDFE72B003}|Example.csproj|d:\\wiprojuly\\day 9\\example\\indexerex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CB4F4A-984F-4BD4-8061-0CFDFE72B003}|Example.csproj|solutionrelative:indexerex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CB4F4A-984F-4BD4-8061-0CFDFE72B003}|Example.csproj|d:\\wiprojuly\\day 9\\example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CB4F4A-984F-4BD4-8061-0CFDFE72B003}|Example.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CB4F4A-984F-4BD4-8061-0CFDFE72B003}|Example.csproj|d:\\wiprojuly\\day 9\\example\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Example",
+              "DocumentMoniker": "D:\\wiprojuly\\Day 9\\Example\\Example.csproj",
+              "RelativeDocumentMoniker": "Example.csproj",
+              "ToolTip": "D:\\wiprojuly\\Day 9\\Example\\Example.csproj*",
+              "RelativeToolTip": "Example.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-30T06:11:13.359Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThreadsEx1.cs",
+              "DocumentMoniker": "D:\\wiprojuly\\Day 9\\Example\\ThreadsEx1.cs",
+              "RelativeDocumentMoniker": "ThreadsEx1.cs",
+              "ToolTip": "D:\\wiprojuly\\Day 9\\Example\\ThreadsEx1.cs",
+              "RelativeToolTip": "ThreadsEx1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:22:25.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "D:\\wiprojuly\\Day 9\\Example\\Emp.cs",
+              "RelativeDocumentMoniker": "Emp.cs",
+              "ToolTip": "D:\\wiprojuly\\Day 9\\Example\\Emp.cs",
+              "RelativeToolTip": "Emp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:17:37.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IndexerEx2.cs",
+              "DocumentMoniker": "D:\\wiprojuly\\Day 9\\Example\\IndexerEx2.cs",
+              "RelativeDocumentMoniker": "IndexerEx2.cs",
+              "ToolTip": "D:\\wiprojuly\\Day 9\\Example\\IndexerEx2.cs",
+              "RelativeToolTip": "IndexerEx2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:15:22.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexerEx1.cs",
+              "DocumentMoniker": "D:\\wiprojuly\\Day 9\\Example\\IndexerEx1.cs",
+              "RelativeDocumentMoniker": "IndexerEx1.cs",
+              "ToolTip": "D:\\wiprojuly\\Day 9\\Example\\IndexerEx1.cs",
+              "RelativeToolTip": "IndexerEx1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:08:54.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wiprojuly\\Day 9\\Example\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\wiprojuly\\Day 9\\Example\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:52:53.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

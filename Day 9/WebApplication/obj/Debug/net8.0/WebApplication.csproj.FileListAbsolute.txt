@@ -1,0 +1,9 @@
+D:\wiprojuly\Day 9\WebApplication\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\wiprojuly\Day 9\WebApplication\obj\Debug\net8.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\wiprojuly\Day 9\WebApplication\obj\Debug\net8.0\WebApplication.AssemblyInfoInputs.cache
+D:\wiprojuly\Day 9\WebApplication\obj\Debug\net8.0\WebApplication.AssemblyInfo.cs
+D:\wiprojuly\Day 9\WebApplication\obj\Debug\net8.0\WebApplication.csproj.CoreCompileInputs.cache
+D:\wiprojuly\Day 9\WebApplication\obj\Debug\net8.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\wiprojuly\Day 9\WebApplication\obj\Debug\net8.0\WebApplication.RazorAssemblyInfo.cache
+D:\wiprojuly\Day 9\WebApplication\obj\Debug\net8.0\WebApplication.RazorAssemblyInfo.cs
+D:\wiprojuly\Day 9\WebApplication\obj\Debug\net8.0\WebApplication.sourcelink.json
