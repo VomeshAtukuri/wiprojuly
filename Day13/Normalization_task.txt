@@ -1,0 +1,81 @@
+Task: Normalization of CourseDetails Table
+
+Given Table: CourseDetails
+Attributes:
+
+Copy
+Edit
+(Ccode, Coursename, Duration, Fee, 
+ StudentNo, StudentName, City, Gender, 
+ FacultyCode, FacultyName, Qualification, 
+ PaymentId, PaymentDate, 
+ BatchCode, BatchName, StartDate, EndDate, Timing)
+
+------------------------
+First Normal Form (1NF)
+
+Observations:
+All values are atomic (no multi-valued or repeating groups).
+
+Therefore, the table satisfies 1NF.
+No structural change needed in 1NF
+
+--------------------------------
+Second Normal Form (2NF)
+
+Observations:
+Assume composite key: (StudentNo, Ccode) or (StudentNo, BatchCode)
+
+Found partial dependencies:
+Ccode → Coursename, Duration, Fee
+StudentNo → StudentName, City, Gender
+FacultyCode → FacultyName, Qualification
+BatchCode → BatchName, StartDate, EndDate, Timing, Ccode, FacultyCode
+PaymentId → PaymentDate, StudentNo
+
+
+To remove partial dependencies, break the table into:
+Student(StudentNo, StudentName, City, Gender)
+Course(Ccode, Coursename, Duration, Fee)
+Faculty(FacultyCode, FacultyName, Qualification)
+Batch(BatchCode, BatchName, StartDate, EndDate, Timing, Ccode, FacultyCode)
+Payment(PaymentId, PaymentDate, StudentNo)
+Enrollment(StudentNo, BatchCode) – (To track student’s course batch)
+
+Now the schema is in 2NF
+
+---------------------------------
+Third Normal Form (3NF)
+
+Observations:
+
+Identified transitive dependencies:
+
+BatchCode → Ccode, and Ccode → Coursename implies BatchCode → Coursename (transitive)
+PaymentId → StudentNo, and StudentNo → StudentName implies PaymentId → StudentName (transitive)
+
+Action:
+Ensure all non-key attributes depend only on the primary key, not through other non-key attributes.
+
+Already achieved in 2NF design by proper separation of entities.
+Now the schema is in 3NF
+
+Final 3NF Tables:
+
+Student
+(StudentNo, StudentName, City, Gender)
+
+Course
+(Ccode, Coursename, Duration, Fee)
+
+Faculty
+(FacultyCode, FacultyName, Qualification)
+
+Batch
+(BatchCode, BatchName, StartDate, EndDate, Timing, Ccode, FacultyCode)
+
+Payment
+(PaymentId, PaymentDate, StudentNo)
+
+Enrollment
+(StudentNo, BatchCode)
