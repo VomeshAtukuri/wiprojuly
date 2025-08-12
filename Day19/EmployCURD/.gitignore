@@ -1,0 +1,29 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.vs/
+.vscode/
+*.db
+*.db-shm
+*.db-wal
+*.pdb
+*.dll
+*.exe
+*.json.cache
+*.csproj.nuget.g.*
+*.GeneratedMSBuildEditorConfig.editorconfig
+
+# ASP.NET
+wwwroot/
+staticwebassets.build*
+
+# Entity Framework
+Migrations/
+
+# Secrets
+appsettings.Development.json
+appsettings.Production.json
