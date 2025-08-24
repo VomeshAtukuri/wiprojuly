@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <button style="margin-top: 25px; margin-left: 45%;">Click to fetch Employees</button>
+    <pre id="employees"></pre>
+    <script>
+        const employees = document.getElementById("employees");
+        const button = document.querySelector("button");
+        button.addEventListener("click", async () => {
+            try {
+                const response = await fetch("https://randomuser.me/api/");
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const data = await response.json();
+                employees.textContent = JSON.stringify(data, null, 2);
+            } catch (err) {
+                console.error("Fetch error:", err);
+            }
+        });
+    </script>
+</body>
+
+</html>
